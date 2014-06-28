@@ -1,3 +1,12 @@
+morrex:
+  label: MORREX.COM
+  icon: https://www.morrex.com/img/ca.gif
+  countries: [ca]
+  url: https://www.morrex.com
+  content:|
+      <p>MORREX Inc, Canadian Based exchange, First digital currency exchanger in Quebec. Interac Online available !   </p>
+  coins: [btc,ltc,ftc]
+
 cointrader:
   label: Cointrader.net
   icon: https://www.cointrader.net/favicon.ico.png
